@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e51e9803-a16b-43ef-9912-841d60a6a009",
+    "Name": "UsrSchema2a0de418Detail",
+    "ModifiedOnUtc": "\/Date(1715008003000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Кредитная история заявителя\""
+  }
+}

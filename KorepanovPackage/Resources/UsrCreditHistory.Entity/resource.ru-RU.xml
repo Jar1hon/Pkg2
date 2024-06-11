@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Кредитная история заявителя" />
+			<Item Name="Columns.UsrCreditIsDone.Caption" Value="Обязательство выполнено" />
+			<Item Name="Columns.UsrCreditOwner.Caption" Value="Заявитель" />
+			<Item Name="Columns.UsrCreditRepaymentDate.Caption" Value="Дата погашения" />
+			<Item Name="Columns.UsrCreditRequest.Caption" Value="Заявка" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

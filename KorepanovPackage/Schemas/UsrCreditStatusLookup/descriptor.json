@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "26872558-69ca-414c-b1a2-604aea8a7574",
+    "Name": "UsrCreditStatusLookup",
+    "ModifiedOnUtc": "\/Date(1714994161000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Статус"
+  }
+}

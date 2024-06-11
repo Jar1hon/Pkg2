@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "683bb7c5-346c-4404-8ff2-4e80c45e6184",
+    "Name": "UsrCreditRequestInFolder",
+    "ModifiedOnUtc": "\/Date(1714994174000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Заявка на кредит в группе"
+  }
+}

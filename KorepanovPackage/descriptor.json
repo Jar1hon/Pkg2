@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "d4f2fdbf-2866-0076-4f33-26b51e24444c",
+    "Name": "KorepanovPackage",
+    "BPMSoftVersion": "1.1.0",
+    "ModifiedOnUtc": "\/Date(1714993531000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "1.0.0",
+        "Name": "Constructor"
+      }
+    ]
+  }
+}

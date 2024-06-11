@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Заявка на кредит" />
+			<Item Name="Columns.UsrCreditCategory.Caption" Value="Категория продукта" />
+			<Item Name="Columns.UsrCreditDateValidity.Caption" Value="Срок действия заявки" />
+			<Item Name="Columns.UsrCreditNumber.Caption" Value="Номер" />
+			<Item Name="Columns.UsrCreditOwner.Caption" Value="Заявитель" />
+			<Item Name="Columns.UsrCreditResponible.Caption" Value="Ответственный" />
+			<Item Name="Columns.UsrCreditStatus.Caption" Value="Статус" />
+			<Item Name="Columns.UsrCreditSum.Caption" Value="Сумма кредита" />
+			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Заметки" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

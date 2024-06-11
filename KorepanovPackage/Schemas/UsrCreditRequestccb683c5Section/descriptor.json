@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "a3de869e-3f9b-4933-a4d2-ec5100a161d7",
+    "Name": "UsrCreditRequestccb683c5Section",
+    "ModifiedOnUtc": "\/Date(1714994154000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Заявка на кредит\""
+  }
+}

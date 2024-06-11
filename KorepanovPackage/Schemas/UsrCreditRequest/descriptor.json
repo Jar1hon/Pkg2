@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "06b7d9d6-42d0-4264-8b7b-a6eb4b1555f5",
+    "Name": "UsrCreditRequest",
+    "ModifiedOnUtc": "\/Date(1714994166000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Заявка на кредит"
+  }
+}

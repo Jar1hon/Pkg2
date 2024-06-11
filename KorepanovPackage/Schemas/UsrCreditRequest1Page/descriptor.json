@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "622b5c05-53d0-4448-9a3e-a392c370dff5",
+    "Name": "UsrCreditRequest1Page",
+    "ModifiedOnUtc": "\/Date(1715010860000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Заявка на кредит\""
+  }
+}

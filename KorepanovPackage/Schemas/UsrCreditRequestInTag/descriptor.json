@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "fe6de46c-7f2b-4b43-97b0-1090d8942438",
+    "Name": "UsrCreditRequestInTag",
+    "ModifiedOnUtc": "\/Date(1714994179000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Заявка на кредит"
+  }
+}

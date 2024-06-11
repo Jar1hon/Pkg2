@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Файл и ссылка объекта Заявка на кредит" />
+			<Item Name="Columns.UsrCreditRequest.Caption" Value="Заявка на кредит" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "f07f4c5a-6114-489c-9233-0ff976cb639a",
+    "Name": "UsrCreditHistory",
+    "ModifiedOnUtc": "\/Date(1714995689000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Кредитная история заявителя"
+  }
+}
