@@ -10,6 +10,7 @@ define("ContactPageV2", [], function() {
 				"filter": {
 					"detailColumn": "UsrCreditOwner",
 					"masterColumn": "Id"
+					
 				}
 			}
 		}/**SCHEMA_DETAILS*/,
